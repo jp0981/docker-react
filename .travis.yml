@@ -13,7 +13,7 @@ deploy:
   provider: elasticbeanstalk
   region: "us-west-2" 
   app: "jdocker-react"
-  env: "Jdocker-env"
+  env: "JdockerReact-env"
   bucket_name: "elasticbeanstalk-us-west-2-510855134618"
   bucket_path: "jdocker-react"
   on: 
